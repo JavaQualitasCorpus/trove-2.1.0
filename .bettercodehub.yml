@@ -1,0 +1,28 @@
+component_depth: 1
+languages:
+- java
+- script
+exclude:
+- ./bin/.*
+- ./bin/gnu/.*
+- ./bin/gnu/trove/.*
+- ./bin/gnu/trove/benchmark/.*
+- ./bin/gnu/trove/decorator/.*
+- ./bin/gnu/trove/generate/.*
+- ./bin/gnu/trove/old_serialized_versions/.*
+- ./bin/gnu/trove/old_serialized_versions/0/.*
+- ./bin/gnu/trove/old_serialized_versions/1/.*
+- ./javadocs/.*
+- ./javadocs/gnu/.*
+- ./javadocs/gnu/trove/.*
+- ./javadocs/gnu/trove/class-use/.*
+- ./javadocs/gnu/trove/decorator/.*
+- ./javadocs/gnu/trove/decorator/class-use/.*
+- ./javadocs/index-files/.*
+- ./lib/.*
+- ./test/.*
+- ./test/gnu/.*
+- ./test/gnu/trove/.*
+- ./test/gnu/trove/old_serialized_versions/.*
+- ./test/gnu/trove/old_serialized_versions/0/.*
+- ./test/gnu/trove/old_serialized_versions/1/.*
